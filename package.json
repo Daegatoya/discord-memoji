@@ -1,0 +1,32 @@
+{
+  "name": "discord-memoji",
+  "version": "0.1.1",
+  "description": "Memoji is a discord npm package that allows you to manage every emotes/emojis on your server in an easy and efficient way.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "discord",
+    "discord.js",
+    "easy",
+    "src",
+    "nyrok",
+    "mokmi",
+    "funny",
+    "open-source",
+    "help",
+    "unicode"
+  ],
+  "authors": [
+    "@Nyrok10 on Twitter",
+    "Nyrok on Github",
+    "@0x4d6f6b6d69 on Twitter",
+    "Plattyz on GitHub"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
