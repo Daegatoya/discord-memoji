@@ -62,7 +62,7 @@ client.login('YOUR_CLIENT_TOKEN');
 # Install
 `npm install discord-memoji`
 # Changelog
-> ## **1.0.0**
+> ## **1.0.1**
 >    * Adding guild.\<functions\> extension according with [Discord.js](https://www.npmjs.com/package/discord.js).
 >    * Adding [colors](https://www.npmjs.com/package/colors) package.
 >    * Adding emojiShow function.
