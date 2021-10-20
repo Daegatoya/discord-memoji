@@ -71,9 +71,9 @@ client.login('YOUR_CLIENT_TOKEN');
 * Nyrok :
   - [Github](https://github.com/Nyrok) ![GitHub followers](https://img.shields.io/github/followers/Nyrok?style=social)
   - [Twitter](https://twitter.com/@Nyrok10) ![Twitter Follow](https://img.shields.io/twitter/follow/Nyrok10?style=social)
-* Plattyz :
-  - [Github](https://github.com/Plattyz) ![GitHub followers](https://img.shields.io/github/followers/Plattyz?style=social)
-  - [Twitter](https://twitter.com/@0x4d6f6b6d69) ![Twitter Follow](https://img.shields.io/twitter/follow/0x4d6f6b6d69?style=social)
+* Eli_ :
+  - [Github](https://github.com/Daegatoya) ![GitHub followers](https://img.shields.io/github/followers/Daegatoya?style=social)
+  - [Twitter](https://twitter.com/Daegatoya) ![Twitter Follow](https://img.shields.io/twitter/follow/Daegatoya?style=social)
 > Don't forget to Star this open-source repo ! ![GitHub Repo stars](https://img.shields.io/github/stars/Plattyz/discord-memoji?style=social)
 # License
 Apache-2.0
